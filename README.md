@@ -1,6 +1,5 @@
 ### Hi there 👋
-Hello! I am Haroon Awan, a Computer Science Student. \
-A Full Stack Web Developer. \
+Hello! I am Haroon Awan, a Full Stack Web Developer. \
 I use Technologies like MERN, VueJS, Flutter, etc. to make Websites and Mobile Apps. \
 I am also Passionate about Blockchain Technology. 
 
@@ -13,12 +12,12 @@ I am also Passionate about Blockchain Technology.
 - 📫 How to reach me ** haroonashrafawangmail.com **
 ## 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=HaroonAwan&theme=onedark&row=1&column=6)]
+![trophy](https://github-profile-trophy.vercel.app/?username=HaroonAwan&theme=onedark&row=1&column=6)
 
 ## 
 ## 📊 Stats
 
-[![trophy](https://github-readme-stats.vercel.app/api?username=HaroonAwan&theme=blue-green)]
+![trophy](https://github-readme-stats.vercel.app/api?username=HaroonAwan&theme=blue-green)
 
 ## 🖥 Web Development
 
