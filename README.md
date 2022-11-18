@@ -21,6 +21,8 @@ I am also Passionate about Blockchain Technology.
 
 ![trophy](https://github-readme-streak-stats.herokuapp.com?user=HaroonAwan&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
 
+![trophy](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroonAwan&layout=compact&theme=cobalt&hide_border=true)
+
 ## 🖥 Web Development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
