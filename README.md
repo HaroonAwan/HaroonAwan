@@ -9,7 +9,7 @@ I am also Passionate about Blockchain Technology.
 
 - 💬 Ask me about **Flutter Mobile App Development**
 
-- 📫 How to reach me ** haroonashrafawangmail.com **
+- 📫 How to reach me ** haroonashrafawan@gmail.com **
 ## 🏆 GitHub Trophy
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=HaroonAwan&theme=onedark&row=1&column=6)
